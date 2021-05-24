@@ -1,3 +1,3 @@
-# Dicee Game - DOM exercise from Udemy's "The Complete 2021 Web Development Bootcamp".
+# Dicee Game - JavaScript & DOM interaction.
 
-Change the HTML display according to simple comparison logic in JavaScript.
+Change the HTML display according to simple logic in JavaScript.
